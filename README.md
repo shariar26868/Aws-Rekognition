@@ -268,7 +268,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Your Name - Md.Shariar Emon Shaikat
 
-Project Link: [[https://github.com/yourusername/lookalike-platform](https://github.com/yourusername/lookalike-platform)](https://github.com/shariar26868/Aws-Rekognition)
+Project Link:(https://github.com/shariar26868/Aws-Rekognition)
 
 ## Roadmap
 
