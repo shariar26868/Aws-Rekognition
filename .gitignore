@@ -1,0 +1,10 @@
+
+# Ignore virtual environments
+
+
+# Ignore model files
+*.dat
+*.pyd
+*.dll
+
+.env
